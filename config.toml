@@ -1,0 +1,4 @@
+baseURL = "https://josh.sansomsherwill.com/"
+languageCode = "en-us"
+title = "The Site of Josh Thoughts"
+theme = "ananke"
