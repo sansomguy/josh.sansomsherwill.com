@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Josh Sansom"
 theme = "hyde-hyde"
 
+enableEmoji = true
+
 
 ## Site Settings
 [params]
