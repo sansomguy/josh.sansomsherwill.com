@@ -13,6 +13,12 @@
   </url>
   
   <url>
+    <loc>https://josh.sansomsherwill.com/</loc>
+    <lastmod>2018-12-18T21:35:00+11:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://josh.sansomsherwill.com/posts/</loc>
     <lastmod>2018-12-18T21:35:00+11:00</lastmod>
     <priority>0</priority>
@@ -20,12 +26,6 @@
   
   <url>
     <loc>https://josh.sansomsherwill.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://josh.sansomsherwill.com/</loc>
-    <lastmod>2018-12-18T21:35:00+11:00</lastmod>
     <priority>0</priority>
   </url>
   

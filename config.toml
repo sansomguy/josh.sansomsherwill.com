@@ -1,4 +1,43 @@
 baseURL = "https://josh.sansomsherwill.com/"
 languageCode = "en-us"
-title = "The Site of Josh Thoughts"
-theme = "ananke"
+title = "Josh Sansom"
+theme = "hyde-hyde"
+
+
+## Site Settings
+[params]
+    author = "Author"
+    title = "Title"
+    # description = "..."
+    authorimage = "/img/josh.sansomsherwill.jpg"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    showBuiltWith = false
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "sansomguy"
+    twitter = "samsomguy"
+    stackoverflow = "sansomguy"
+    email = "joshwebd@gmail.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
