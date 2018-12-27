@@ -11,7 +11,7 @@ enableEmoji = true
     author = "Author"
     title = "Title"
     # description = "..."
-    authorimage = "/img/josh.sansomsherwill.jpg"
+    authorimage = "img/josh.sansomsherwill.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
