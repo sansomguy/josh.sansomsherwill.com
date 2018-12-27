@@ -10,7 +10,7 @@ I thought I should have a website... Not really sure why? BUT, too late, its don
 
 I have put this together using a pretty cool little tool, that seems to be gaining in popularity lately, called Hugo.
 
-Hugo is a static sight generator built in the go language. Im not exactly sure of what it is capable of at this point, but there is no better way to learn then to try. :smile:
+Hugo is a static sight generator built in the "go" language. Im not exactly sure of what it is capable of at this point, but there is no better way to learn then to try. :smile:
 
 
 
