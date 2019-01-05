@@ -1,6 +1,6 @@
 ---
 title: "Future of Apple"
-date: 2019-1-5T21:35:00+11:00
+date: 2019-01-05T19:00:00+11:00
 draft: false
 ---
 
