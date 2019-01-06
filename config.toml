@@ -34,7 +34,7 @@ enableEmoji = true
 [params.social]
     github = "sansomguy"
     twitter = "sansomguy"
-    stackoverflow = "users/2267000/sansomguy"
+    stackoverflow = "2267000"
     email = "joshwebd@gmail.com"
 
 ## Main Menu
