@@ -1,0 +1,27 @@
+{{ with .Site.Params.copyright }}
+<div class="copyright">
+  &copy; {{ now.Format "2006"}} {{ . | safeHTML }}
+  {{ with $.Site.Params.license }}
+  <a href="{{$.Site.Params.licenseURL | safeHTML}}">{{ . | safeHTML }}</a>
+  {{end}}
+</div>
+{{ end }}
+{{ with .Site.Params.showBuiltWith }}
+<div class="builtwith">
+  Built with <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
+</div>
+{{ end }}
+
+<style>
+    .privacy-policy {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: .7rem;
+    }
+</style>
+<div class="privacy-policy">
+  <a href="https://www.iubenda.com/privacy-policy/57139241" title="Privacy Policy ">
+    Privacy Policy
+  </a>
+</div>

@@ -10,7 +10,7 @@ enableEmoji = true
 [params]
     author = "Author"
     title = "Title"
-    # description = "..."
+    description = "Some [hopefully interesting] excerpts from my brain."
     authorimage = "img/josh.sansomsherwill.jpg"
     dateformat = "Jan 2, 2006"
 
@@ -20,15 +20,6 @@ enableEmoji = true
     # https://highlightjs.org
     highlightjs = true
     highlightjsstyle = "github"
-    
-    # please choose either GraphComment or Disqus or Utterances
-    #GraphCommentId = "..."
-    #UtterancesRepo = "..." # https://utteranc.es/
-    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
-    #UtterancesTheme = "..." # github-light or github-dark
-
-    # Table of contents
-    #toc = none, "hugo", or "tocbot"
 
 ## Social Accounts
 [params.social]
