@@ -67,5 +67,5 @@ At the end of the day it was a glorified apple-device-only speaker (which it doe
 
 Now imagine this: You come home from work, its super hot outside... Just as you realize you have to stop to find your keys to escape from the scorching abuse of the sun and your Apple HomePod uses its AI smarts based on the time of day and the sound of your car in the driveway to unlock the door and give you a little chime to let you know you can come on in. Or, alternatively, you dont need keys, just your iPhone (which was likely prioritized to be in the palm of your hand when you left the car anyway) with it's NFC connectivity touches your Apple Smartlock on your door and you voila, you have escaped the heat!
 
-This, smaller device, everything is connected, Apple home ecosystem is where I think Apple has some real potential for growth and market capitalization. They already have the consumer trust, the brand awareness, the technological know how, and likely the undying faith of the Apple cult.
+This, smaller device, everything is connected, Apple home ecosystem is where I think Apple has some real potential for growth and revenue explosion. They already have the consumer trust, the brand awareness, the technological know how, and likely the undying faith of the Apple cult.
 
