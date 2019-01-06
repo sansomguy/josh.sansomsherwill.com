@@ -33,8 +33,8 @@ enableEmoji = true
 ## Social Accounts
 [params.social]
     github = "sansomguy"
-    twitter = "samsomguy"
-    stackoverflow = "sansomguy"
+    twitter = "sansomguy"
+    stackoverflow = "users/2267000/sansomguy"
     email = "joshwebd@gmail.com"
 
 ## Main Menu
