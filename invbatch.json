@@ -1,0 +1,7 @@
+{
+    "Paths": {
+      "Quantity": 3,
+      "Items": ["/index.html", "/posts/*", "/page/*"]
+    },
+    "CallerReference": "deploy.sh"
+}
