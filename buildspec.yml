@@ -3,6 +3,7 @@ phases:
 
   install:
     commands:
+      - apt-get -qq update
       - apt-get -qq install hugo
 
   build:
