@@ -6,4 +6,4 @@ phases:
 
 artifacts:
   files: 
-    - public/*
+    - public/**/*
