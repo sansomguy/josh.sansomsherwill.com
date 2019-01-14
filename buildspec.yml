@@ -1,11 +1,5 @@
 version: 0.2
 phases:
-
-  install:
-    commands:
-      - apt-get -qq update
-      - apt-get -qq install hugo
-
   build:
     commands:
       - hugo
@@ -13,6 +7,4 @@ phases:
   post_build:
     commands:
       - aws s3 sync public s3://josh.sansomsherwill.com
-artifacts:
-  files: 
-    - public/**/*
+      - bash deploy.sh
