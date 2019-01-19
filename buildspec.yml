@@ -12,4 +12,4 @@ phases:
   post_build:
     commands:
       - aws s3 sync public s3://josh.sansomsherwill.com
-      - bash deploy.sh
+      - aws cloudfront create-invalidation --distribution-id E2XYNIDVJYUFMI --paths "/*" 
