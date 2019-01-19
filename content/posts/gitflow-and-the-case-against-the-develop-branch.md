@@ -1,5 +1,5 @@
 ---
-title: "Gitflow or Not"
+title: "Gitflow and the case against the Develop branch"
 date: 2019-01-19T19:00:00+11:00
 draft: false
 ---
